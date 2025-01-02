@@ -7,7 +7,7 @@
 
 ## Auth Page Quote
 
-“Pictoria AI is a game changer for me. I have been able to generate high quality professional headshots within minutes. It has saved me countless hours of work and cost as well.”
+“Fotonova AI revolutionized my workflow! I can now create stunning, professional-grade images in minutes, saving both time and effort without compromising quality.”
 
 David S.
 
