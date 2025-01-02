@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pictoria AI - Personalized AI Photo Generation Platform
 
 Transform your photos with the power of AI! Pictoria AI is your ultimate solution for creating/generating professional AI-generated photos, similar to the popular PhotoAI platform. Perfect for LinkedIn headshots, Instagram content, dating profile pictures, and professional portraits. Train AI model on your personal images and generate stunning, high-quality AI-generated photos within minutes.
@@ -167,3 +168,6 @@ If you have any question or want a custom build for your business, you can reach
 
 MyChannel: https://www.youtube.com/codebucks
 My Website: https://devdreaming.com/
+=======
+# AI_SAAS_PLATFORM
+>>>>>>> 9575af2f614b826933c79565b3866a24f2736973
